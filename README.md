@@ -75,8 +75,8 @@ Fully offline. Fast. Privacy-friendly.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/research-paper-chatbot.git
-cd research-paper-chatbot
+git clone https://github.com/piyushdev04/PaperChat-AI.git
+cd PaperChat-AI
 ```
 
 ### 2️⃣ Install dependencies
